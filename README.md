@@ -1,0 +1,1 @@
+Original from https://gist.github.com/ghalimi/4669712 (javascript)
